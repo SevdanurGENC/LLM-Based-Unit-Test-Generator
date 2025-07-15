@@ -124,6 +124,8 @@ MIT License — see `LICENSE` file.
 
 📬 **Contact:**
 For questions or feedback:
+
 [sevdanur.genc@balikesir.edu.tr](mailto:sevdanur.genc@balikesir.edu.tr)
+
 [furkan.ceylan@balikesir.edu.tr](mailto:furkan.ceylan@balikesir.edu.tr)
 

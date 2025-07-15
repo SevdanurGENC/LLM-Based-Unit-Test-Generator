@@ -14,10 +14,15 @@ The tool offers a repeatable, efficient pipeline for test automation and is desi
 ## 🚀 Features
 
 ✅ Generates unit test files in **pytest** format using GPT-4.
+
 ✅ Covers normal and **edge-case scenarios** (e.g., division by zero, invalid inputs).
+
 ✅ Executes tests automatically and validates correctness.
+
 ✅ Measures and reports **code coverage**.
+
 ✅ Produces HTML and tabular reports.
+
 ✅ Fully automated and reproducible process.
 
 ---
@@ -25,10 +30,15 @@ The tool offers a repeatable, efficient pipeline for test automation and is desi
 ## 🖼️ Demo Workflow
 
 1️⃣ Provide Python source code with functions to be tested.
+
 2️⃣ The tool parses the code and extracts target functions.
+
 3️⃣ Sends each function to GPT-4 with a structured prompt.
+
 4️⃣ Saves the generated tests in `tests/` directory.
+
 5️⃣ Runs the tests using `pytest` and analyzes results.
+
 6️⃣ Generates and saves code coverage reports in HTML format.
 
 ---
@@ -84,8 +94,11 @@ You can customize the source file or output directories by modifying `main.py`.
 ## 📊 Output
 
 ✅ Test result summary (pass/fail).
+
 ✅ Code coverage percentage.
+
 ✅ Edge-case inclusion indicators.
+
 ✅ HTML coverage report in `/reports`.
 
 ---
